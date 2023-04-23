@@ -1,4 +1,50 @@
-# Getting Started with Create React App
+# Developer To-Do List / ReactJS 
+This is a simple ReactJS application that allows developers to create and manage their to-do lists. With this application, developers can add tasks to their to-do list, mark tasks as completed, and delete tasks when they are no longer needed.
+
+## MVP
+![Example image](https://i.imgur.com/EzIZqMW.png)
+
+## Description 
+As a developer, keeping track of tasks and deadlines is essential for success. This ReactJS application provides an easy and intuitive way for developers to manage their tasks and stay on top of their workload. By using this application, developers can keep their tasks organized and ensure that nothing falls through the cracks.
+
+## Features 
+- Create new tasks and add them to your to-do list
+- Mark tasks as completed when finished
+- Delete tasks when they are no longer needed
+- Filter tasks by completion status
+- Edit task descriptions or completion status
+
+## Requirements 
+To run this project, you will need the following installed on your system:
+
+- Node.js (v12 or later)
+- NPM (v6 or later)
+
+
+
+
+## Usage 
+To use the application, follow these steps:
+
+- Open the application in your web browser.
+- Add tasks to your to-do list by typing in the input field and pressing Enter.
+- Mark tasks as completed by clicking the checkmark icon next to the task.
+- Delete tasks by clicking the trash can icon next to the task.
+- Filter tasks by completion status using the filter buttons at the top of the list.
+- Edit task descriptions or completion status by clicking the pencil icon next to the task.
+
+
+## Contributing
+Contributions to this project are welcome. To contribute, please follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them with descriptive commit messages.
+- Push your changes to your branch.
+- Create a pull request with a description of your changes.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
